@@ -79,5 +79,5 @@
 * Национальный парк «Браславские озёра» [ссылка](https://braslavpark.by/)
 * Витебск
 	* **Дом-музей Шагала [ссылка](https://www.belarus.by/ru/travel/belarus-life/chagall-museum)**
-	* * Музей истории витебского трамвая [ссылка](https://probelarus.by/belarus/sight/museums/muzey-istorii-vitebskogo.html)
+	* Музей истории витебского трамвая [ссылка](https://probelarus.by/belarus/sight/museums/muzey-istorii-vitebskogo.html)
 	* **Музей-усадьба И. Е. Репина [ссылка](http://zdravnyovo.museum.by/)**
