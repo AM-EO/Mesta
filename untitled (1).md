@@ -10,21 +10,19 @@
 	* Монастырь бернардинцев [ссылка](https://planetabelarus.by/sights/kostel-svyatogo-iosifa-i-byvshiy-monastyr-bernardintsev-v-minske/?sphrase_id=91628)
 	* Музей валунов [ссылка](https://planetabelarus.by/sights/muzey-valunov-v-minske/?sphrase_id=91629)
 	* **Музей миниатюр «Страна мини» [ссылка](https://planetabelarus.by/infrastructure/kultura/muzei-3735/muzey-arkhitekturnykh-miniatyur-strana-mini/?sphrase_id=91630)**
+	* Комаровский рынок [ссылка](https://planetabelarus.by/sights/minskiy-komarovskiy-rynok/?sphrase_id=91663)
+	* Верхний город
+	* Дудутки [ссылка](https://dudutki.by/)
 	* *Куропаты [ссылка](https://planetabelarus.by/sights/urochishche-kuropaty/?sphrase_id=91631)*
 * Мир
 	* Мирский замок [ссылка](https://planetabelarus.by/sights/zamok-v-g-p-mir-mirskiy-zamok/?sphrase_id=91632)
 * Молодечно 
 	* Нарочанский национальный парк [ссылка](https://planetabelarus.by/infrastructure/priroda/natsionalnye-parki/natsionalnyy-park-narochanskiy/?sphrase_id=91633)
-	* Комаровский рынок [ссылка](https://planetabelarus.by/sights/minskiy-komarovskiy-rynok/?sphrase_id=91663)
-	* Верхний город
-	* Дудутки [ссылка](https://dudutki.by/)
-
-
 
 # Брест
-* 1. Коссово
-	* 1.1. **Дворец Пусловских (Косовский замок) [ссылка](https://planetabelarus.by/sights/kossovskiy-dvorets/?sphrase_id=91634)**
-	* 1.2. Мемориальный Музей-усадьба им. Т. Костюшко [ссылка](https://planetabelarus.by/infrastructure/kultura/muzei-3735/muzey-usadba-kostyushko-v-kossovo/?sphrase_id=91636)
+* Коссово
+	* **Дворец Пусловских (Косовский замок) [ссылка](https://planetabelarus.by/sights/kossovskiy-dvorets/?sphrase_id=91634)**
+	* Мемориальный Музей-усадьба им. Т. Костюшко [ссылка](https://planetabelarus.by/infrastructure/kultura/muzei-3735/muzey-usadba-kostyushko-v-kossovo/?sphrase_id=91636)
 * Ружаны
 	* **Дворец Сапег (Белорусский Версаль) [ссылка](https://planetabelarus.by/sights/dvorets-sapeg-v-ruzhanakh/)**
 
